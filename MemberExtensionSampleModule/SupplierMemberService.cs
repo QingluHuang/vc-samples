@@ -20,7 +20,7 @@ namespace MemberExtensionSampleModule.Web
     /// </summary>
     public class SupplierMemberService : CommerceMembersServiceImpl
     {
-        public SupplierMemberService(Func<ICustomerRepository> repositoryFactory, IDynamicPropertyService dynamicPropertyService, ISecurityService securityService, IEventPublisher eventPublisher, ICommerceService commerceService)
+        public SupplierMemberService(Func<ICustomerRepository> repositoryFactory, IDynamicPropertyService dynamicPropertyService, ISecurityService securityService, IEventPublisher<int> eventPublisher, ICommerceService commerceService)
             : base(repositoryFactory, dynamicPropertyService, commerceService, securityService, eventPublisher)
         {
         }

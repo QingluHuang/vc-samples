@@ -119,17 +119,17 @@
     <Reference Include="System.Configuration" />
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
-    <Reference Include="VirtoCommerce.CustomerModule.Data, Version=2.14.21.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\VirtoCommerce.CustomerModule.Data.2.14.21\lib\net461\VirtoCommerce.CustomerModule.Data.dll</HintPath>
+    <Reference Include="VirtoCommerce.CustomerModule.Data, Version=2.14.8.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\VirtoCommerce.CustomerModule.Data.2.14.8\lib\net461\VirtoCommerce.CustomerModule.Data.dll</HintPath>
     </Reference>
-    <Reference Include="VirtoCommerce.Domain, Version=2.25.22.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\VirtoCommerce.Domain.2.25.22\lib\net461\VirtoCommerce.Domain.dll</HintPath>
+    <Reference Include="VirtoCommerce.Domain, Version=2.24.31.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\VirtoCommerce.Domain.2.24.31\lib\net461\VirtoCommerce.Domain.dll</HintPath>
     </Reference>
-    <Reference Include="VirtoCommerce.Platform.Core, Version=2.13.44.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\VirtoCommerce.Platform.Core.2.13.44\lib\net461\VirtoCommerce.Platform.Core.dll</HintPath>
+    <Reference Include="VirtoCommerce.Platform.Core, Version=2.13.19.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\VirtoCommerce.Platform.Core.2.13.19\lib\net461\VirtoCommerce.Platform.Core.dll</HintPath>
     </Reference>
-    <Reference Include="VirtoCommerce.Platform.Data, Version=2.13.44.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\VirtoCommerce.Platform.Data.2.13.44\lib\net461\VirtoCommerce.Platform.Data.dll</HintPath>
+    <Reference Include="VirtoCommerce.Platform.Data, Version=2.13.19.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\VirtoCommerce.Platform.Data.2.13.19\lib\net461\VirtoCommerce.Platform.Data.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
